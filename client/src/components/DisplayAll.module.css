@@ -1,0 +1,27 @@
+.row_color1 {
+    background-color: #E4CCFD!important;
+}
+
+.row_color2 {
+    background-color: #B0F4C8!important;
+}
+
+.row_color3 {
+    background-color: #BEE3FD!important;
+}
+
+.table {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+
+
+.table > tbody > tr {
+    border-top: 1px solid gray;
+    
+}
+
+.table > tbody > tr > td {
+    padding: 5px;
+}
